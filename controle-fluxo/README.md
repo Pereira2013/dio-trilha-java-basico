@@ -7,3 +7,6 @@ Adiconado na classe ResultadoEscolar
 
 Modificado para a condição 
 - Condição Ternária
+
+Adicionado classe SistemaMedida com exemplo
+- switch case
