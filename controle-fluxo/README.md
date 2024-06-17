@@ -1,2 +1,3 @@
 Exercícios de fluxo de controle
-- IF simples
+- Condicional simples
+- Condicional composta
