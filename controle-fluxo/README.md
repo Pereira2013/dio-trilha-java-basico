@@ -1,5 +1,9 @@
 Exercícios de fluxo de controle
 - Condicional simples
 - Condicional composta
-adiconado na classe ResultadoEscolar
+
+Adiconado na classe ResultadoEscolar
 - Condicional encadeada 
+
+Modificado para a condição 
+- Condição Ternária
