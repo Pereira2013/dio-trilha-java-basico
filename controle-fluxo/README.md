@@ -10,3 +10,5 @@ Modificado para a condição
 
 Adicionado classe SistemaMedida com exemplo
 - switch case
+
+Adicionando um exemplo de Switch case sem break na classe PlanoOperadora
